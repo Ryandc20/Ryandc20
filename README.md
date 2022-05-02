@@ -1,4 +1,5 @@
-### Hi there 👋
+# Ryan Cooper's github
+- Reach me at ryan.dm.cooper@gmail.com
 
 <!--
 **Ryandc20/Ryandc20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
